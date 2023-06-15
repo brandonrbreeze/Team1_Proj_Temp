@@ -1,2 +1,2 @@
-# Team1_Proj_Temp
-Temp repo for team1 project
+#Final Project
+![UCSD Logo](UCSDLogo.jpeg)
