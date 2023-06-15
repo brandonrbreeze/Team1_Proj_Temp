@@ -28,3 +28,7 @@ The way that we are detecting if the controller is disconnected is by using a th
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/uU5O4HXrWTc/0.jpg)](http://www.youtube.com/watch?v=uU5O4HXrWTc "Video Title")
 
+### Full Demo
+
+
+
