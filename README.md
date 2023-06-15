@@ -47,6 +47,11 @@ We modified the donkeycar drive script inside the path follow package manage.py.
 ### Possible Solutions
 
 - One solution for the lidar would be to get the type of lidar that works better for donkeycar
+- One solution for the gps would be to try a different gps
+
+## If we had another week
+
+If we had more time, we would like to have the car stop at once it has returned. More importantly, we would also very much like to get the lidar working and avoiding obstacles.
 
 
 
