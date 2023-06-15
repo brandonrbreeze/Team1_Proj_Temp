@@ -24,5 +24,5 @@ I would be also nice to be able to detect is the program crashes or if a compute
 
 # Controller Disconnect Detection 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pR9KvV3bHfQ/0.jpg)](http://www.youtube.com/watch?v=pR9KvV3bHfQ "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/uU5O4HXrWTc/0.jpg)](http://www.youtube.com/watch?v=uU5O4HXrWTc "Video Title")
 
