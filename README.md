@@ -31,7 +31,8 @@ Dominic Orlando - ECE
 
 ## Schematic
 
-![image](https://github.com/brandonrbreeze/Team1_Proj_Temp/assets/114778470/fde3834d-c6f4-43da-b425-481c4ba94d82)
+
+![Final project 148](https://github.com/brandonrbreeze/Team1_Proj_Temp/assets/114778470/3669460c-a440-4cb4-ba89-302a09540305)
 
 
 ## What we have done
