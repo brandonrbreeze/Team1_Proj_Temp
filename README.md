@@ -1,8 +1,8 @@
 # Final Project
 ![UCSD Logo](UCSDLogo.jpeg)
 ## Team 1 Members
-  Brandon Breeze - ECE
+Brandon Breeze - ECE
   
-  Liam Carmody - MAE
+Liam Carmody - MAE
   
-  Dominic Orlando - ECE
+Dominic Orlando - ECE
