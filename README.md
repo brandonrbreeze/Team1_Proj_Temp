@@ -13,12 +13,12 @@ Dominic Orlando - ECE
 
 #### Must have
 
-Our idea is to have the robot car return to a pre-designated “Home Base” (GPS location) when it detects that is has disconnected from it’s controller. Additionally, if time allows we also would like to add obstacle avoidance so that the car can make it home safely. 
+- Our idea is to have the robot car return to a pre-designated “Home Base” (GPS location) when it detects that is has disconnected from it’s controller. Additionally, if time allows we also would like to add obstacle avoidance so that the car can make it home safely. 
 
 
 #### Nice to have
 
-I would be also nice to be able to detect is the program crashes or if a computer that is ssh’d into it loses connection 
+- I would be also nice to be able to detect is the program crashes or if a computer that is ssh’d into it loses connection 
 
 ## Video Demonstrations
 
