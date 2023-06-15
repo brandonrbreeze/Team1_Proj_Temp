@@ -7,3 +7,8 @@ Brandon Breeze - ECE
 Liam Carmody - MAE
   
 Dominic Orlando - ECE
+
+### What we have promised
+
+#### Must have
+#### Nice to have
