@@ -22,7 +22,7 @@ I would be also nice to be able to detect is the program crashes or if a compute
 
 ## Video Demonstration
 
-# Controller Disconnect Detection 
+### Controller Disconnect Detection 
 
 The way that we are detecting if the controller is disconnected is by using a threshold number. After a certain number of callbacks without controller inputs changing, it assumes that the controller is disconnected.
 
